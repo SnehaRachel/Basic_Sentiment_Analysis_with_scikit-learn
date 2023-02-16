@@ -4,8 +4,7 @@ The program uses Python’s scikit-learn library for implementing sentiment anal
 
 The dataset has already been split into the training, test and validation sets. In this program, the train and test sets have been combined and split again using train_test_split. The validation dataset is ignored as evaluation of the model is beyond the scope of the program.
 
-
-The kaggle dataset used can be accessed here: https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format
+The kaggle dataset can be accessed here: https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format
 
 The Random Forest Classifier and Support Vector Machine yield the best accuracy(85.65) followed by the Naive Bayes Classifier(78.26).
 
